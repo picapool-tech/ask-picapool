@@ -1,6 +1,6 @@
 ---
-name: connect-picapool
-description: Ask Picapool to find someone nearby who wants the same thing — a badminton partner, a flatmate, a cab share, someone to split a bulk order with. Use when what the user needs is a person near them, not information.
+name: ask-picapool
+description: Ask Picapool to find someone near you who wants the same thing — a badminton or cricket partner, a flatmate or room, someone to share a cab or split a bulk order. Use when what the user needs is a person nearby rather than information, or when they say "ask Picapool", "connect me with Picapool", or ask how to reach Picapool from ChatGPT or Claude.
 license: MIT
 ---
 

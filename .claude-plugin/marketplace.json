@@ -3,7 +3,7 @@
   "owner": { "name": "Picapool", "url": "https://picapool.com" },
   "plugins": [
     {
-      "name": "connect-picapool",
+      "name": "ask-picapool",
       "source": "./",
       "description": "Ask Picapool to find someone nearby who wants the same thing — a game, a flatmate, a cab share, a group order."
     }

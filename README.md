@@ -1,4 +1,4 @@
-# Connect Picapool
+# Ask Picapool
 
 A skill that lets your AI assistant ask Picapool to find someone near you
 who wants the same thing — a badminton partner tonight, a flatmate, someone
@@ -13,26 +13,26 @@ never talks to Picapool.**
 **Claude Code**
 
 ```bash
-/plugin marketplace add picapool-tech/connect-picapool
+/plugin marketplace add picapool-tech/ask-picapool
 ```
 
 ```bash
-/plugin install connect-picapool@picapool
+/plugin install ask-picapool@picapool
 ```
 
 **Any assistant that reads skills**
 
 ```bash
-npx skills add picapool-tech/connect-picapool
+npx skills add picapool-tech/ask-picapool
 ```
 
-**claude.ai** — download `skills/connect-picapool/`, zip it, and upload it
+**claude.ai** — download `skills/ask-picapool/`, zip it, and upload it
 under Settings → Capabilities → Skills.
 
 **Anything else** — paste this into the chat:
 
 ```
-https://raw.githubusercontent.com/picapool-tech/connect-picapool/main/skills/connect-picapool/SKILL.md
+https://raw.githubusercontent.com/picapool-tech/ask-picapool/main/skills/ask-picapool/SKILL.md
 ```
 
 ## What it does
