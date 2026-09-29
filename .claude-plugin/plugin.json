@@ -1,0 +1,9 @@
+{
+  "name": "connect-picapool",
+  "description": "Ask Picapool to find someone nearby who wants the same thing — a game, a flatmate, a cab share, a group order.",
+  "version": "0.1.0",
+  "author": { "name": "Picapool", "url": "https://picapool.com" },
+  "homepage": "https://github.com/picapool-tech/connect-picapool",
+  "license": "MIT",
+  "keywords": ["picapool", "introductions", "local", "nearby", "whatsapp"]
+}
